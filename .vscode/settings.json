@@ -1,0 +1,6 @@
+{
+  "go.lintOnSave": "off",
+  "go.lintFlags": [
+    "--disable-all",
+  ]
+}
