@@ -1,3 +1,5 @@
+// +build ignore
+
 package main
 
 import (
@@ -6,5 +8,5 @@ import (
 )
 
 func main() {
-	fmt.Printf("Now you have %g problems.", math.Sqrt(7))
+	fmt.Println(math.Pi)
 }
